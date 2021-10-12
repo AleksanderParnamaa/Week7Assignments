@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\bin\Debug\netcoreapp3.1\FullnameInitials.exe
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\bin\Debug\netcoreapp3.1\FullnameInitials.deps.json
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\bin\Debug\netcoreapp3.1\FullnameInitials.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\bin\Debug\netcoreapp3.1\FullnameInitials.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\bin\Debug\netcoreapp3.1\FullnameInitials.dll
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\bin\Debug\netcoreapp3.1\FullnameInitials.pdb
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\obj\Debug\netcoreapp3.1\FullnameInitials.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\obj\Debug\netcoreapp3.1\FullnameInitials.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\obj\Debug\netcoreapp3.1\FullnameInitials.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\obj\Debug\netcoreapp3.1\FullnameInitials.dll
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\obj\Debug\netcoreapp3.1\FullnameInitials.pdb
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\FullnameInitials\obj\Debug\netcoreapp3.1\FullnameInitials.genruntimeconfig.cache

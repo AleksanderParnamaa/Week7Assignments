@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\obj\Debug\netcoreapp3.1\Week7Assignment.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\obj\Debug\netcoreapp3.1\Week7Assignment.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\obj\Debug\netcoreapp3.1\Week7Assignment.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\obj\Debug\netcoreapp3.1\Week7Assignment.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\bin\Debug\netcoreapp3.1\Week7Assignment.exe
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\bin\Debug\netcoreapp3.1\Week7Assignment.deps.json
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\bin\Debug\netcoreapp3.1\Week7Assignment.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\bin\Debug\netcoreapp3.1\Week7Assignment.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\bin\Debug\netcoreapp3.1\Week7Assignment.dll
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\bin\Debug\netcoreapp3.1\Week7Assignment.pdb
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\obj\Debug\netcoreapp3.1\Week7Assignment.dll
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\obj\Debug\netcoreapp3.1\Week7Assignment.pdb
+C:\Users\opilane\source\repos\TITpe21\Week7Assignment\Week7Assignment\obj\Debug\netcoreapp3.1\Week7Assignment.genruntimeconfig.cache
